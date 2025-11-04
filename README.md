@@ -4,7 +4,8 @@
 
 # 🧠 **Rudolfo Blake**
 
-**Python Backend Engineer** · FastAPI · Flask · AI Microservices · Cloud Systems  
+**Python Backend Engineer** · FastAPI · Flask · AI Microservices · Cloud Systems
+
 🎯 Building scalable backends, orchestrating AI, and merging technology with art.  
 
 Software engineer and creative technologist specialized in **Python**, **FastAPI**, and **AI-powered microservices**.  
@@ -64,19 +65,18 @@ Founder of **[Blake Labs®](https://blakelabs.art)** — a creative label at the
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![PyCharm](https://skillicons.dev/icons?i=pycharm)
-![Cursor](https://skillicons.dev/icons?i=linux)
+![Linux](https://skillicons.dev/icons?i=linux)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Postman](https://skillicons.dev/icons?i=postman)
 
 ### 🤖 **AI & Machine Learning**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-0E1111?style=for-the-badge&logo=anthropic&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-0098FF?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://skillicons.dev/icons?i=openai)
+![Claude](https://skillicons.dev/icons?i=ai)
+![DeepSeek](https://skillicons.dev/icons?i=deepseek)
+![Gemini](https://skillicons.dev/icons?i=google)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![Pandas](https://skillicons.dev/icons?i=pandas)
-![NumPy](https://skillicons.dev/icons?i=numpy)
+
 
 ---
 
